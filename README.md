@@ -15,5 +15,5 @@ import all pip modules needed
 `pip install Pillow`<br>
 `pip install mysql-connector-python`<br>
 `pip install pytesseract`<br>
-`pip install tensorflow numpy'<br>
+`pip install tensorflow numpy'`<br>
 `pip install fastapi`<br>
