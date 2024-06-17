@@ -22,3 +22,16 @@ inisiation your service.json
 -
 `cred = credentials.Certificate(r'[YOUR-JSON-PATH]')`<br>
 remember this service is confidential don't share the code inside your service
+
+create dependensi
+-
+use this command in shell or command terminal
+`pip install -r requirements.txt`
+or 
+`pip freeze > requirements.txt`
+
+api test
+--
+use postman or use fastapi featur for test the api the result will has same output.<br>
+do it in your shell or command terminal => `fastapi dev main.py` for development environtment, `fastapi run` for production environtment.<br>
+copy on http url and copy to postman and ajust the endPoint for testing, or just click on http://YOUR-URL/docs#/ for test in fastapi featur
