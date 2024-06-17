@@ -10,10 +10,10 @@ add your tesseract.exe path in main.py `pytesseract.pytesseract.tesseract_cmd = 
 
 import all pip modules needed
 -
-`pip install firebase-admin`
-`pip install google-auth` 
-`pip install Pillow`
-`pip install mysql-connector-python`
-`pip install pytesseract`
-`pip install tensorflow numpy'
-`pip install fastapi`
+`pip install firebase-admin`<br>
+`pip install google-auth` <br>
+`pip install Pillow`<br>
+`pip install mysql-connector-python`<br>
+`pip install pytesseract`<br>
+`pip install tensorflow numpy'<br>
+`pip install fastapi`<br>
