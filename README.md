@@ -17,3 +17,8 @@ import all pip modules needed
 `pip install pytesseract`<br>
 `pip install tensorflow numpy'`<br>
 `pip install fastapi`<br>
+
+inisiation your service.json
+-
+`cred = credentials.Certificate(r'[YOUR-JSON-PATH]')`<br>
+remember this service is confidential don't share the code inside your service
